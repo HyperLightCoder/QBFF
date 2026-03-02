@@ -1,0 +1,7 @@
+# QBFF Configuration — Edit this to tune your shield
+threat_level: "normal"          # normal / elevated / quantum_probe
+encryption_strength: "post_quantum_hybrid"
+biofield_training_duration: 300  # seconds (5 minutes)
+anomaly_sensitivity: 0.85
+alert_channel: "console"        # console / telegram (future)
+quantum_radar_mode: true        # enables biofield quantum threat simulation
